@@ -1,0 +1,11 @@
+{
+  "dataVersion": 1,
+  "images": [
+    {
+      "category": "animals",
+      "label": "Animals & Objects",
+      "total": 3,
+      "premium": []
+    }
+  ]
+}
