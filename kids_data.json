@@ -3,9 +3,21 @@
   "images": [
     {
       "category": "animals",
-      "label": "Animals & Objects",
-      "total": 3,
-      "premium": []
+      "label": "Alpaca",
+      "imageUrl": "https://raw.githubusercontent.com/CodeCraftX-bySana/my-coloring-game-data/main/templates/animals/template_1.png",
+      "isLocked": false
+    },
+    {
+      "category": "animals",
+      "label": "Witch Cat",
+      "imageUrl": "https://raw.githubusercontent.com/CodeCraftX-bySana/my-coloring-game-data/main/templates/animals/template_2.png",
+      "isLocked": false
+    },
+    {
+      "category": "advanced",
+      "label": "Mushroom Forest",
+      "imageUrl": "https://raw.githubusercontent.com/CodeCraftX-bySana/my-coloring-game-data/main/templates/advanced/template_1.png",
+      "isLocked": false
     }
   ]
 }
