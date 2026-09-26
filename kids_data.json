@@ -20,6 +20,11 @@
       "category": "vehicles",
       "total": 2,
       "premium": []
+    },
+     {
+      "category": "magic",
+      "total": 9,
+      "premium": []
     }
   ]
 }
